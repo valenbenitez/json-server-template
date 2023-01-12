@@ -5,8 +5,8 @@
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js"
+    "dev": "json-server --watch db.json",
+    "start": "node json-server --watch db.json"
   },
   "dependencies": {
     "clone": "^2.1.2",

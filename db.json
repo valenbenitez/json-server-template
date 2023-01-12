@@ -4,6 +4,21 @@
       "name": "Nueva tarea 2",
       "date_of_create": "12/01/2023",
       "id": 3
+    },
+    {
+      "name": "Nueva tarea 3",
+      "date_of_create": "12/01/2023",
+      "id": 4
+    },
+    {
+      "name": "Nueva tarea 4",
+      "date_of_create": "12/01/2023",
+      "id": 5
+    },
+    {
+      "name": "Nueva tarea 5",
+      "date_of_create": "12/01/2023",
+      "id": 6
     }
   ]
 }
