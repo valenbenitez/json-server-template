@@ -5,8 +5,8 @@
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "json-server --watch db.json",
-    "start": "npm i && node json-server --watch db.json"
+    "dev": "set NODE_ENV=development && node server.js",
+    "start": "set NODE_ENV=production && node server.js"
   },
   "dependencies": {
     "clone": "^2.1.2",
