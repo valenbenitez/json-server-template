@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "json-server --watch db.json",
-    "start": "node json-server --watch db.json"
+    "start": "npm i && node json-server --watch db.json"
   },
   "dependencies": {
     "clone": "^2.1.2",
